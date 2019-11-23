@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectGestures", "KinectGestures\KinectGestures.csproj", "{B68BE8E3-CA18-4342-ACED-29CD33B78E8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B68BE8E3-CA18-4342-ACED-29CD33B78E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B68BE8E3-CA18-4342-ACED-29CD33B78E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B68BE8E3-CA18-4342-ACED-29CD33B78E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B68BE8E3-CA18-4342-ACED-29CD33B78E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B037BD5-318D-4C6C-BBDC-796C56D6A7D2}
+	EndGlobalSection
+EndGlobal
